@@ -72,46 +72,47 @@ Create Uptime Check and Alert.
 
 20. Wait a few minutes, until uptime check success to be created. Uptime check was created.
 <br> ![Capture](Material/20.png) <br>
+<br> ![Capture](Material/21.png) <br>
 
 Simulation Condition if your VM gonna be stop.
 
 21. Go to compute engine and stop the vm.
-<br> ![Capture](Material/21.png) <br>
+<br> ![Capture](Material/22.png) <br>
 
 22. You will be receive the alert email notification that your vm stoped. Check your email.
-<br> ![Capture](Material/22.png) <br>
+<br> ![Capture](Material/23.png) <br>
 
 Simulation Condition if your VM gonna be startup again.
 
 23. Go to compute engine and start the vm.
-<br> ![Capture](Material/23.png) <br>
+<br> ![Capture](Material/24.png) <br>
 
 24. You will be received the alert email notification that your vm is running. Check your email.
-<br> ![Capture](Material/24.png) <br>
+<br> ![Capture](Material/25.png) <br>
 
 Custom your dashboard and charts.
 
 25. Go to cloud monitoring dashboard menu and click create dashboard.
-<br> ![Capture](Material/25.png) <br>
+<br> ![Capture](Material/26.png) <br>
 
 26. Follow the instruction, and fill what you want.
 
 27. Name
-<br> ![Capture](Material/26.png) <br>
-
-28. Chart
 <br> ![Capture](Material/27.png) <br>
 
-29. You can choose your chart you want. I am using line for this.
+28. Chart
 <br> ![Capture](Material/28.png) <br>
 
-30. You can choose any option for resource monitoring. For this I am using cpu utilization for display mean cpu utilization with 1 minute interval.
+29. You can choose your chart you want. I am using line for this.
 <br> ![Capture](Material/29.png) <br>
 
-31. You can add another matric, just click it.
+30. You can choose any option for resource monitoring. For this I am using cpu utilization for display mean cpu utilization with 1 minute interval.
 <br> ![Capture](Material/30.png) <br>
 
-32. I add another metric for display disk read byte.
+31. You can add another matric, just click it.
 <br> ![Capture](Material/31.png) <br>
+
+32. I add another metric for display disk read byte.
+<br> ![Capture](Material/32.png) <br>
 
 33. Done, Thanks.
