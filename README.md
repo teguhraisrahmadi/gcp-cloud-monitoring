@@ -42,7 +42,7 @@ Create Uptime Check and Alert.
 10. Title.
 <br> ![Capture](Material/10.png) <br>
 
-11. Terget
+11. Target
 <br> ![Capture](Material/11.png) <br>
 
 12. Response Validation
@@ -87,7 +87,7 @@ Simulation Condition if your VM gonna be startup again.
 23. Go to compute engine and start the vm.
 <br> ![Capture](Material/24.png) <br>
 
-24. You will be received the alert email notification that your vm is running. Check your email.
+24. You will be receive the alert email notification that your vm is running. Check your email.
 <br> ![Capture](Material/25.png) <br>
 
 Custom your dashboard and charts.
@@ -106,7 +106,7 @@ Custom your dashboard and charts.
 29. You can choose your chart you want. I am using line for this.
 <br> ![Capture](Material/29.png) <br>
 
-30. You can choose any option for resource monitoring. For this I am using cpu utilization for display mean cpu utilization with 1 minute interval.
+30. You can choose any option for resource monitoring. For this, I am using cpu utilization for display mean cpu utilization with 1 minute interval.
 <br> ![Capture](Material/30.png) <br>
 
 31. You can add another matric, just click it.
